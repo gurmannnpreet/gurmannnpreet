@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @gurmannnpreet
+- 🏫 I'm studying BSc Specialization in Computing Science at University of Alberta, Canada
 - 👀 I’m interested in Sports(Triathlon in particular), Coding, Maths and wasting time
 - 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on Advanced Python projects and Mobile apps
